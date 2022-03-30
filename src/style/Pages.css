@@ -1,0 +1,23 @@
+body {
+    background-color: #FFF7AE;
+}
+
+.content-header {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.big-title {
+    font-family: "Roboto", sans-serif;
+}
+
+.content-body {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 1.5rem;
+}
+
+.m-paragraph {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
