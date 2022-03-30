@@ -10,6 +10,17 @@
 
 <script>
   export default {
-      
+    data: () => {
+      return {
+        portfolioItems: [
+          {
+            title: '',
+            thumb: '',
+            tags: [],
+            to: ''
+          }
+        ],
+      }
+    }      
   }
 </script>
