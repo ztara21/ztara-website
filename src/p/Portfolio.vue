@@ -4,7 +4,12 @@
 
 <template>
     <div class="content-header">
-        <h1 class="big-title">Portfolio</h1>
+      <h1 class="big-title">Portfolio</h1>
+    </div>
+    <div class="content-body">
+      <p class="m-paragraph">
+        <strong>NOT FINISHED YET!</strong>
+      </p>
     </div>
 </template>
 
